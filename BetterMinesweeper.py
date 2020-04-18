@@ -1,3 +1,4 @@
+from imp import reload
 from tkinter import *
 from collections import deque
 import random
