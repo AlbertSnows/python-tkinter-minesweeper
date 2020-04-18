@@ -4,6 +4,7 @@ Python Tkinter Minesweeper v0.5.1
 Minesweeper game written in Python using Tkinter GUI library, except I added a feature that decreases the number of mines when you flag one. 
 
 ![Alt text](images/minesweeper.PNG?raw=true "Minesweeper")
+
 Known bugs:
 ----------
 - Tiles cleared from nearby "clean" areas if there is only one mine in between
